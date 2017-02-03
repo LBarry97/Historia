@@ -64,7 +64,8 @@
 	<!--Edad Media (Lansana)-->
 	<question id="jklm_008">
 		<type>text</type>
-		<title>8.- La edad media en Europa tuvo un periodo de (1000, 1500, 2000):</title>                <answer>1000</answer>
+		<title>8.- La edad media en Europa tuvo un periodo de (1000, 1500, 2000):</title>
+		<answer>1000</answer>
 	</question>        
 	<question id="jklm_009">
 		<type>multiple</type>
