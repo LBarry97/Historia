@@ -34,13 +34,13 @@ function gestionarXml (dadesXml){
 	
 	//Extraer los datos{
 	var titleInput=xmlDoc.getElementsByTagName ("title")[0].childNodes[0].nodeValue;
-	setTitle(titleInput);
+	ponerTitle(titleInput);
 	//Extraer los datos}
 }
 //Tratar datos xml}
 
 //Poner los datos en el html{
-function setTitle ("titleInput"){//Funcion que pone el titulo
+function ponerTitle ("titleInput"){//Funcion que pone el titulo
 	document.getElementById ("jklm_001").innerHTML = titleInput;
 }
 //Poner los datos en el html}
