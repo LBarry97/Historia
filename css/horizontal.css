@@ -1,0 +1,117 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+
+body{
+	width: 98%;
+	height: 100%;
+	margin-top: 0;
+	margin-left: 2%;
+	background-color: #FFA115;
+}
+
+img{
+	height: 120px;
+	width: 120px;
+}
+
+h1{
+	margin-top: 0;
+	height: 22%;
+	width: 100%;
+	font-size: 50px;
+	background-color: #A6602E;
+}
+
+input[type=submit]{
+	margin-left: 30%;
+	width: 10%;
+	background-color: #4aff2f;
+	font-size: x-large;
+}
+
+input[type=text]{
+	width: 17%;
+}
+
+select{
+	width: 17%;
+}
+
+
+
+.puntuacion{
+	background-color: #A6602E;
+	width: 50%;
+	height: 50%;
+	position: fixed;
+	margin-top: 17%;
+	margin-left: 25%;
+	font-size: small;
+}
+
+.puntuacion{
+	display: block;
+}
+
+
+#acep{
+	margin-left: 80%;
+	margin-top: 17%;
+	height: 32px;
+	width: 88px;
+}
+
+
+ul{
+	position:fixed;
+	background-color:#A6602E;
+	width:50%;
+	height:50%;
+	color: #0a0a0b;
+	font-size: x-large;
+	font-family: sans-serif;
+	list-style: none;
+	margin-top: 17%;
+	margin-left: 25%;
+}
+
+#cor{
+	width: 150px;
+	margin-left: -15%;
+	margin-top: -7%;
+}
+
+#inc{
+	width: 165px;
+	margin-left: 64%;
+	margin-top: -128px;
+}
+
+#acep:hover{
+	color:#FFA115;
+}
+
+#points{
+	margin-left: 33%;
+}
+
+#son{
+	width: 161px;
+	height: 130px;
+	margin-left: 28%;
+	margin-top: -21%;
+}
+
+#nota{
+	width: 15%;
+	margin-left: 46%;
+	margin-top: 3%;
+}
+
+#list{
+	display:none;
+}
+
+
